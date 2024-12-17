@@ -1,8 +1,8 @@
-Todo App
+# Todo App
 This Todo App is a simple web application that allows users to manage their tasks by adding, editing, completing, and deleting them. It provides a clean and intuitive interface for organizing tasks efficiently.
 
-Demo
+## Demo
 https://avramenkomarina.github.io/todo_app/
 
-Technologies
+## Technologies
 JavaScript, TypeScript, React
